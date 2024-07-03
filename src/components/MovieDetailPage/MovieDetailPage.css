@@ -1,0 +1,95 @@
+.movie-detailss {
+  padding: 16px;
+}
+
+.movie-detailss .movie-title {
+  font-size: 2rem;
+  margin-top: 16px;
+}
+
+.movie-detailss .movie-description {
+  margin-top: 8px;
+  color: #666;
+}
+
+.movie-detailss .movie-year-genre,
+.movie-detailss .movie-rating,
+.movie-detailss .movie-watched {
+  margin-top: 8px;
+}
+
+.movie-detailss .toggle-watch-status {
+  margin-left: 8px;
+  padding: 4px 8px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.movie-detailss .toggle-watch-status:hover {
+  background-color: #0056b3;
+}
+
+.movie-detailss .reviews {
+  margin-top: 16px;
+}
+
+.movie-detailss .review {
+  margin-top: 8px;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+.movie-detailss .add-review {
+  margin-top: 16px;
+}
+
+.movie-detailss .add-review input,
+.movie-detailss .add-review textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 8px;
+}
+
+.movie-detailss .add-review button {
+  margin-top: 8px;
+  padding: 8px 12px;
+  border: none;
+  background-color: #28a745;
+  color: white;
+  cursor: pointer;
+}
+
+.movie-detailss .add-review button:hover {
+  background-color: #218838;
+}
+
+.movie-detailss .movie-actions {
+  margin-top: 16px;
+}
+
+.movie-detailss .movie-actions button {
+  padding: 8px 12px;
+  margin-right: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+.movie-detailss .movie-actions button:nth-child(1) {
+  background-color: #ffc107;
+  color: black;
+}
+
+.movie-detailss .movie-actions button:nth-child(1):hover {
+  background-color: #e0a800;
+}
+
+.movie-detailss .movie-actions button:nth-child(2) {
+  background-color: #dc3545;
+  color: white;
+}
+
+.movie-detailss .movie-actions button:nth-child(2):hover {
+  background-color: #c82333;
+}

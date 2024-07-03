@@ -1,0 +1,14 @@
+/* StarRating.css */
+.star-rating {
+  display: flex;
+  direction: row;
+}
+
+.star-rating input {
+  display: none;
+}
+
+.star {
+  cursor: pointer;
+  transition: color 200ms;
+}

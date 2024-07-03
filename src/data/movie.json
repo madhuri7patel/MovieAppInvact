@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "The Lost Expedition",
+    "director": "John Smith",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
+    "releaseYear": 2021,
+    "genre": "Adventure",
+    "rating": 7.8,
+    "duration": "2h 10m",
+    "watched": false,
+    "reviews": []
+  },
+  {
+    "id": 2,
+    "title": "Space Odyssey",
+    "director": "Jane Doe",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
+    "releaseYear": 2018,
+    "genre": "Sci-Fi",
+    "rating": 8.5,
+    "duration": "2h 30m",
+    "watched": false,
+    "reviews": []
+  },
+  {
+    "id": 3,
+    "title": "Mystery of the Manor",
+    "director": "Alice Johnson",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
+    "releaseYear": 2019,
+    "genre": "Mystery",
+    "rating": 7.3,
+    "duration": "1h 45m",
+    "watched": false,
+    "reviews": []
+  },
+  {
+    "id": 4,
+    "title": "Romantic Getaway",
+    "director": "Michael Brown",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
+    "releaseYear": 2020,
+    "genre": "Romance",
+    "rating": 6.9,
+    "duration": "1h 55m",
+    "watched": false,
+    "reviews": []
+  },
+  {
+    "id": 5,
+    "title": "The Great Heist",
+    "director": "Emma Wilson",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
+    "releaseYear": 2022,
+    "genre": "Crime",
+    "rating": 8.2,
+    "duration": "2h 20m",
+    "watched": false,
+    "reviews": []
+  },
+  {
+    "id": 6,
+    "title": "Haunted Hollow",
+    "director": "Chris Taylor",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
+    "releaseYear": 2021,
+    "genre": "Horror",
+    "rating": 6.5,
+    "duration": "1h 40m",
+    "watched": false,
+    "reviews": []
+  },
+  {
+    "id": 7,
+    "title": "Comedy Night",
+    "director": "Laura Green",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
+    "releaseYear": 2019,
+    "genre": "Comedy",
+    "rating": 7.0,
+    "duration": "1h 50m",
+    "watched": false,
+    "reviews": []
+  },
+  {
+    "id": 8,
+    "title": "Epic Battle",
+    "director": "Robert White",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
+    "releaseYear": 2018,
+    "genre": "Action",
+    "rating": 8.1,
+    "duration": "2h 25m",
+    "watched": false,
+    "reviews": []
+  },
+  {
+    "id": 9,
+    "title": "Fantasy World",
+    "director": "Emily King",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
+    "releaseYear": 2020,
+    "genre": "Fantasy",
+    "rating": 7.9,
+    "duration": "2h 15m",
+    "watched": false,
+    "reviews": []
+  },
+  {
+    "id": 10,
+    "title": "Documentary Life",
+    "director": "David Brown",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galle",
+    "releaseYear": 2022,
+    "genre": "Documentary",
+    "rating": 8.6,
+    "duration": "1h 30m",
+    "watched": false,
+    "reviews": []
+  }
+]

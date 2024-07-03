@@ -1,0 +1,66 @@
+/* components/MovieCard.css */
+.movie-card {
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  width: calc(20% - 10px);
+  transition: transform 0.3s ease;
+}
+
+.movie-card:hover {
+  transform: scale(1.01);
+}
+
+.movie-details {
+  padding: 16px;
+}
+
+.movie-title {
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+  cursor: pointer;
+}
+
+.movie-genre {
+  color: #fff;
+  font-size: 12px;
+  background-color: #000;
+  border-radius: 25px;
+  display: inline-block;
+  padding-inline: 15px;
+  padding-block: 5px;
+  font-weight: bold;
+}
+
+.button-group {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.edit-button,
+.delete-button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.edit-button {
+  background-color: #007bff;
+}
+
+.edit-button:hover {
+  background-color: #0056b3;
+}
+
+.delete-button {
+  background-color: #dc3545;
+}
+
+.delete-button:hover {
+  background-color: #c82333;
+}
